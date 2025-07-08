@@ -1,2 +1,2 @@
-# exemplo-git
-Repositorio de estudos Git e Github
+# Experiencias usando Git e Github
+
